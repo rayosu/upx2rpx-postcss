@@ -1,7 +1,7 @@
 {
   "name": "postcss-px2upx",
   "description": "Postcss version of px2upx",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "https://github.com/stackjie/px2upx-postcss",
   "author": "stackjie <stackjie@gmail.com>",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "postcss": "^5.0.0",
-    "px2upx": "0.0.1"
+    "px2upx": "0.0.2"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
